@@ -1,4 +1,7 @@
-Welcome to the **Robotics and Python Class** repository!  
-This project is designed to help students  learn how to combine **Python programming** and  **robotics concepts** to create intelligent and automated systems.
+<p align="center">
+  <img src="robotics_banner.jpg](https://github.com/HammadSheharyar/Robotics-and-Python-Class/blob/main/01.RoboticsinPython_1.webp)" alt="Robotics and Python Class Banner" width="800">
+</p>
 
----
+# 🤖 Robotics and Python Class
+Welcome to the **Robotics and Python Class** repository!
+
